@@ -101,5 +101,4 @@ This project demonstrates a fusion of **rule-based reasoning** and **neural netw
 
 If you have any questions, feel free to reach out to me at:
 
-- **Name**: Vishal Dung Dung
 - **Email**: vidung@iu.edu
